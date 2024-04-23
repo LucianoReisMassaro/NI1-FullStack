@@ -1,2 +1,2 @@
 # NI1-FullStack
-https://prod.liveshare.vsengsaas.visualstudio.com/join?ABA7C28808F9F553C9320890C1B5D0755BB7
+https://prod.liveshare.vsengsaas.visualstudio.com/join?165B8362FCD72E24D3AD332CC4C923C487BF
