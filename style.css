@@ -474,6 +474,9 @@ section .main_btn:hover i {
 }
 
 .review .review_box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
     width: 95%;
     margin: 70px auto;
     display: flex;
