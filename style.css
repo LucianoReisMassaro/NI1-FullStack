@@ -682,6 +682,8 @@ footer .footer_main{
 }
 
 footer .footer_main .footer_tag{
+    display: flex;
+    flex-direction: column;
     text-align: center;
 }
 
@@ -691,13 +693,23 @@ footer .footer_main .footer_tag h2{
     font-size: 30px;
 }
 
-footer .footer_main .footer_tag a{
-    margin: 10px 0;
-    text-decoration: none;
+footer .footer_main .footer_tag a {
+    margin: 5px 0;
+    color: #000;
 }
 
-footer .footer_main .footer_tag i{
-    margin: 0 5px;
+footer .footer_main .footer_tag a:hover {
+    color: #ff0000;
+}
+
+footer .footer_main .footer_social_media {
+    display: flex;
+    flex-direction: row;
+}
+footer .footer_main .footer_social_media i {
+    align-items: center;
+    justify-content: center;
+    margin: 5px;
     cursor: pointer;
 }
 
